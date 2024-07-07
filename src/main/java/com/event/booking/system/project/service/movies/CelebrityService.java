@@ -7,6 +7,7 @@ import jakarta.transaction.Transactional;
 //21
 //22
 //23
+//24
 
 @Transactional
 public interface CelebrityService {
