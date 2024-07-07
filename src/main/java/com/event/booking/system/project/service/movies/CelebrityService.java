@@ -6,8 +6,15 @@ import jakarta.transaction.Transactional;
 
 //added in master branch
 //for branch sf2
+
 //11
 //12
+
+//21
+//22
+//23
+//24
+
 
 @Transactional
 public interface CelebrityService {
