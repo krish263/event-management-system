@@ -3,6 +3,7 @@ package com.event.booking.system.project.service.movies;
 import com.event.booking.system.project.entity.movies.City;
 import jakarta.transaction.Transactional;
 
+//for master branch
 @Transactional
 public interface CityService {
     public void addCity(City city);
