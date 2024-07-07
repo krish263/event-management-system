@@ -4,6 +4,7 @@ import com.event.booking.system.project.entity.movies.Celebrity;
 import jakarta.transaction.Transactional;
 
 //for branch sf2
+//21
 
 @Transactional
 public interface CelebrityService {
